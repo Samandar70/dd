@@ -1,0 +1,7 @@
+.box{
+    height: 100px;
+    width: 250px;
+    border: 10px solid red;
+    transform: rotate(15deg);
+    
+}
